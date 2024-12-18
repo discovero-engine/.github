@@ -1,0 +1,6 @@
+! name: discovero base
+! description: Only educational sources for students
+! public: false
+! author: Me
+
+$boost=3,site=tudoescola.com.br
